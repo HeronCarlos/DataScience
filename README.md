@@ -8,7 +8,7 @@ Neste ambiente você encontrara um material ( Projetos ) relacionados ao aprendi
 
 | Projetos  | Link  |
 | ------------ | ------------ |
-| ** - Titanic: Machine Learning from Disaster **|   |
+| **- Titanic: Machine Learning from Disaster**|   |
 
 
 ------------
