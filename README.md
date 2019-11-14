@@ -2,7 +2,7 @@
 
 Repositório de Projetos e Analises de Dados.
 
-Neste ambiente você encontrara um material relacionados ao aprendizado, desenvolvimento em Data Science utilizando modelos estatisticos, linguagens ( R, Python, etc... ).
+Neste ambiente você encontrara materiais relacionados ao aprendizado, desenvolvimento em Data Science utilizando modelos estatisticos, linguagens ( R, Python, etc... ).
 
 ------------
 
