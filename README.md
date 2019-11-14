@@ -3,13 +3,13 @@
 # DataScience
 Repositório de Projetos e Analises de Dados.
 
-Neste ambiente você encontrara um material relacionados ao aprendizado, desenvolvimento em Data Science. 
+Neste ambiente você encontrara um material relacionados ao aprendizado, desenvolvimento em Data Science utilizando modelos estatisticos, linguagens ( R, Python, etc... ).
 
 ------------
 
-| Projetos  | Link  |
-| ------------ | ------------ |
-| **- Titanic: Machine Learning from Disaster**|   |
+| Projetos  | Link  | Fonte de Informaçoes Dados  | 
+| ------------ | ------------ | ------------ |
+| **- Titanic: Machine Learning from Disaster**|   |   |
 
 
 ------------
