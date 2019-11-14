@@ -9,7 +9,7 @@ Neste ambiente você encontrara um material relacionados ao aprendizado, desenvo
 
 | Projetos  | Link  | Fonte de Informaçoes Dados  | 
 | ------------ | ------------ | ------------ |
-| **- Titanic: Machine Learning from Disaster**|   |   |
+| **- Titanic: Machine Learning from Disaster**|   |  [Kaggle - Titanic ML](https://www.kaggle.com/c/titanic "Kaggle - Titanic ML") |
 
 
 ------------
