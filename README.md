@@ -2,13 +2,14 @@
 
 Repositório de Projetos e Analises de Dados.
 
-Neste ambiente você encontrara materiais relacionados ao aprendizado, desenvolvimento em Data Science utilizando modelos estatisticos, linguagens ( R, Python, etc... ).
+Neste ambiente você encontrara materiais relacionados ao aprendizado, desenvolvimento em Data Science, Machine Learning utilizando modelos estatisticos, linguagens ( R, Python, etc... ).
 
 ------------
 
-| Projetos  | Notebooks | Fonte de Informaçoes Dados  | 
+| Projetos  | Notebooks | Linguagem | Fonte de Informaçoes Dados  | 
 | ------------ | ------------ | ------------ |
-| **- Titanic: Machine Learning from Disaster**|   |  [Kaggle - Titanic ML](https://www.kaggle.com/c/titanic "Kaggle - Titanic ML") |
+| **- Analise de Metricas Carros Usados **|   | Python |[Kaggle - Titanic ML](https://www.kaggle.com/c/titanic "Kaggle - Titanic ML") |
+| **- Titanic: Machine Learning from Disaster**|   | Python |[Kaggle - Titanic ML](https://www.kaggle.com/c/titanic "Kaggle - Titanic ML") |
 
 
 ------------
