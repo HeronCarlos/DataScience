@@ -7,8 +7,8 @@ Neste ambiente você encontrara materiais relacionados ao aprendizado, desenvolv
 ------------
 
 | Projetos  | Notebooks | Linguagem | Fonte de Informaçoes Dados  | 
-| ------------ | ------------ | ------------ |
-| **- Analise de Metricas Carros Usados **|   | Python |[Kaggle - Titanic ML](https://www.kaggle.com/c/titanic "Kaggle - Titanic ML") |
+| ------------ | ------------ | ------------ | ------------ |
+| **- Analise de Metricas Carros Usados **|   | Python | |
 | **- Titanic: Machine Learning from Disaster**|   | Python |[Kaggle - Titanic ML](https://www.kaggle.com/c/titanic "Kaggle - Titanic ML") |
 
 
