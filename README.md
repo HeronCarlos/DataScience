@@ -9,7 +9,7 @@ Neste ambiente você encontrara materiais relacionados ao aprendizado, desenvolv
 | Projetos  | Notebooks | Linguagem | Fonte de Informaçoes Dados  | 
 | ------------ | ------------ | ------------ | ------------ |
 | **- Analise de Metricas Carros Usados**| [UsedVehicleMarket](https://bit.ly/315VqWa)| Python | |
-| **- Titanic: Machine Learning from Disaster**| Em Desenvolvimento | Python |[Kaggle - Titanic ML](https://www.kaggle.com/c/titanic "Kaggle - Titanic ML") |
+| **- Titanic: Machine Learning from Disaster**| [Titanic](https://bit.ly/2ILh75w) | Python | Modulo Seaborn |
 
 
 ------------
